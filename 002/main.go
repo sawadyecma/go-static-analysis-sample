@@ -1,3 +1,4 @@
+// 参考: https://golangtokyo.github.io/codelab/find-gophers/?index=codelab#6
 package main
 
 import (
